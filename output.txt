@@ -1,0 +1,3 @@
+[0.000487]: Customer #1 moved to Seller #2
+[0.000724]: Seller #2 started selling for Customer #1
+[3.994368]: Seller #2 ended selling for Customer #1
